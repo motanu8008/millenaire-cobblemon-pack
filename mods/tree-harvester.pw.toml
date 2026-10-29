@@ -1,0 +1,13 @@
+name = "Tree Harvester"
+filename = "treeharvester-1.21.1-10.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ac7aa7d6aaa138505e583f8f52f52516aa2cd66e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9222786
+project-id = 367178

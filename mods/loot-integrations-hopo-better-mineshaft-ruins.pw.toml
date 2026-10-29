@@ -1,0 +1,13 @@
+name = "Loot Integrations: Hopo Better Mineshaft, Ruins & Portals"
+filename = "lootintegrations_hopo-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d4ad2dd8b7e704017a11d911c2e7016ad6a5a13d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8922328
+project-id = 1149268

@@ -1,0 +1,13 @@
+name = "Tom's Simple Storage Knowlogy"
+filename = "tomsstorage_knowlogy-neoforge-1.1.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a7dbaaa8eda922fab30c1ff4c1f555533e5ebc5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6749905
+project-id = 1162880

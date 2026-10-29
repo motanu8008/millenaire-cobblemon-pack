@@ -1,0 +1,13 @@
+name = "Knowlogy Book"
+filename = "knowlogy-neoforge-0.9.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a4a9da9d78ab4b95a74e20e7748921e7e4e1d99f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6749571
+project-id = 944409

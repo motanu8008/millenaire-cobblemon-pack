@@ -1,0 +1,13 @@
+name = "Cobblemon Knowlogy"
+filename = "cobblemon_knowlogy-neoforge-1.6.0-beta.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e78fc5f74e9d96e2676e99e2ff097c2bdee0e15e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7814589
+project-id = 1144644

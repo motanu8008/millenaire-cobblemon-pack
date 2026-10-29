@@ -1,0 +1,12 @@
+name = "MillenaireCobblemon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4ead1a108b06b8aabc24e7d5519f1f1b4b98ee64eff971ac99438461cc4347eb"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

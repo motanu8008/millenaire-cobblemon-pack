@@ -1,0 +1,13 @@
+name = "Cobblemon Firework Capsules"
+filename = "fireworkcapsules-neoforge-2.2.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a277e4f6a6535f0c1b4bd1fdb3245c544de91027"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8928921
+project-id = 1236675

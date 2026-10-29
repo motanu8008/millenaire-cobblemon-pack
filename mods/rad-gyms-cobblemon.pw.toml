@@ -1,0 +1,13 @@
+name = "Rad Gyms [Cobblemon]"
+filename = "rad-gyms-neoforge-0.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d15954fb8901eb85e33b63e660e7aab6d81bb97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9318890
+project-id = 1196570

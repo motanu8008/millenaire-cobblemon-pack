@@ -1,0 +1,23 @@
+{
+  "debug": false,
+  "maxEntranceUses": 3,
+  "deriveAverageGymLevel": true,
+  "minLevel": 10,
+  "maxLevel": 100,
+  "shardRewards": true,
+  "cacheBoosters": {
+    "minecraft:lapis_lazuli": 1,
+    "minecraft:lapis_block": 9
+  },
+  "ignoredSpecies": [
+    "mega",
+    "mega-x",
+    "mega-y",
+    "gmax"
+  ],
+  "trainerTeamShinyChance": 128,
+  "boosterMap$delegate": {
+    "initializer": {},
+    "_value": {}
+  }
+}

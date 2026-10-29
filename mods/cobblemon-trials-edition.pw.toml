@@ -1,0 +1,13 @@
+name = "Cobblemon Trials Edition"
+filename = "CobblemonTrialsEdition-neoforge-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oH4pigcS/versions/zNPsCorN/CobblemonTrialsEdition-neoforge-2.2.0.jar"
+hash-format = "sha512"
+hash = "de5ba8f07a725758a8b416ab0b15df3d3bf378a5b45d958448d7226d9050ea6cd3a0131f2bcda4136e002434269a36c62e4f7ea39b6713e430db0d976da9c20e"
+
+[update]
+[update.modrinth]
+mod-id = "oH4pigcS"
+version = "zNPsCorN"

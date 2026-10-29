@@ -1,0 +1,13 @@
+name = "CobbleDollars [Cobblemon Addon]"
+filename = "CobbleDollars-neoforge-2.0.0+Beta-6.1+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3d4559f77fc47d10ccac7079dbaefd1c414636c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8484919
+project-id = 859232
