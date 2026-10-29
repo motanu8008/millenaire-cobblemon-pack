@@ -5,7 +5,9 @@ Minecraft 1.21.1 · NeoForge 21.1.265 · packwiz
 Pack URL: `https://raw.githubusercontent.com/motanu8008/millenaire-cobblemon-pack/main/pack.toml`
 
 - **Server** (Pterodactyl, egg "NeoForge + packwiz"): set `PACKWIZ_URL` to the URL above. Mods sync on every start; client-only mods are skipped.
-- **Players** (Prism Launcher): import the `MillenaireCobblemon-Prism.zip` instance. Mods sync every time the game starts.
+- **Players** (Prism Launcher): *Add Instance → Import* and paste
+  `https://github.com/motanu8008/millenaire-cobblemon-pack/releases/latest/download/MillenaireCobblemon-Prism.zip`.
+  Mods sync every time the game starts.
 
 ## Updating the pack
 
