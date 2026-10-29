@@ -8,6 +8,10 @@ Pack URL: `https://raw.githubusercontent.com/motanu8008/millenaire-cobblemon-pac
 - **Players** (Prism Launcher): *Add Instance → Import* and paste
   `https://github.com/motanu8008/millenaire-cobblemon-pack/releases/latest/download/MillenaireCobblemon-Prism.zip`.
   Mods sync every time the game starts.
+- **Players** (CurseForge App): download
+  [MillenaireCobblemon-CurseForge.zip](https://github.com/motanu8008/millenaire-cobblemon-pack/releases/latest/download/MillenaireCobblemon-CurseForge.zip)
+  and use *Create Custom Profile → Import*. No auto-update: re-import the new zip after a pack update
+  (build it with `tools/export-curseforge.sh` and attach it to a new release).
 
 ## Updating the pack
 
