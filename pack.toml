@@ -1,11 +1,11 @@
 name = "MillenaireCobblemon"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2829db2430b293dc7eb29ce332dc5dfb47d75de6d61d099c876ac16997506d58"
+hash = "80b029f7f65fde7edf1bac079b8b7c2ad645e2afd24a7cd96fba6064c125058b"
 
 [versions]
 minecraft = "1.21.1"
