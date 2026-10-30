@@ -45,34 +45,6 @@ file = "config/cobbledollars/client.json"
 hash = "7f772dbb3202da636736ea98587e32da7b4755cde1ec86917d56070c296cea8c"
 
 [[files]]
-file = "config/cobblemon-spawn-alerts/main.json"
-hash = "ad079c7dc50606dbee8ae9d4dfdee4202c4daa326f7ad8e4011ff2e99b0fbee9"
-
-[[files]]
-file = "config/cobblemon-spawn-alerts/message_templates.json"
-hash = "a3dc3109692416258a1a11cfdafd4aaf2ab51f8aac64774b41bf7cc8e12f9592"
-
-[[files]]
-file = "config/cobblemon-spawn-alerts/pokemon.json"
-hash = "a0a7a74867a01e09dcf50dacc35e6e53a65b935ead8c18b0df3ff01d4de986bb"
-
-[[files]]
-file = "config/cobblemon-spawn-alerts/rarities.json"
-hash = "d60999a5064fccc197ca96e24545f0dabf15cdbe28533f42ed14ca3d4f218e76"
-
-[[files]]
-file = "config/cobblemon-spawn-alerts/server.json"
-hash = "9bdd8ba5a81794da53021d983c1b9ac1b5a8f89373d38f98e8388ca821825b14"
-
-[[files]]
-file = "config/cobblemon-spawn-alerts/server_message_templates.json"
-hash = "5a71b8f3a170d44b3da43e1927c96952e3d29630ffd79dce80fc02e909bc74fe"
-
-[[files]]
-file = "config/cobblemon-spawn-alerts/webhooks.json"
-hash = "41906770205ea3ea772eac58b066796e815a24ecbadbf1ad71025c4f1d1d8c87"
-
-[[files]]
 file = "config/cobblemon/main.json"
 hash = "697c37a51948378f6f0136150276fe77f0484082c5f64c3b3292ed403d59abbe"
 
@@ -580,11 +552,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-pokenav.pw.toml"
 hash = "c2c87b9fe04066c049b3e5865232d50cc280e016d127df5c114abe69c9e5c05f"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-spawn-alerts.pw.toml"
-hash = "7f720fc393c400e186ec52b39d70744eaf8d60e60db90abb88fd408e52452c8b"
 metafile = true
 
 [[files]]
