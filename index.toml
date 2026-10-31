@@ -470,6 +470,11 @@ hash = "bb44d1ac3aedc014cf14482b585ad4a0338bb0f7e2896d85609c764c79397022"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "3f910a2722d6884203aba5eee8f5c129ea3c2e0b78bc683b2d7b5604fec755f5"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
@@ -477,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/ati-structures.pw.toml"
 hash = "005af99c3e9c5af370c1b161258ef80c508d17e011bb0b3e13397c773087c6d4"
+metafile = true
+
+[[files]]
+file = "mods/bad-packets.pw.toml"
+hash = "4696bddb459f4dade3c1be79d05e53566a975ae675d2e80a6e2760edbe223a45"
 metafile = true
 
 [[files]]
@@ -1026,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/william-wythers-overhauled-overworld.pw.toml"
 hash = "1b3e9b77f6afefbe73a13382fb098799159e0088b42702854385d372b2c45abd"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "6c78a380ceee0df0c71c341d821f35c80aa177aa5e2d847557620070b4fd230e"
 metafile = true
 
 [[files]]

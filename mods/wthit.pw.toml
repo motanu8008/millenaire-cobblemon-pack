@@ -1,0 +1,13 @@
+name = "WTHIT"
+filename = "wthit-1.21.1-neo-12.10.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/IeXnWQRE/wthit-1.21.1-neo-12.10.2.jar"
+hash-format = "sha1"
+hash = "ac19d46e1dbd77bd2d6ac8dee0d15198b05f6a7e"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "IeXnWQRE"

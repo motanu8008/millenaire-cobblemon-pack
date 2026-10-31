@@ -27,3 +27,6 @@ Restart the server; players get the update next time they launch.
 
 `mods/create-otbwg-compat-1.0.jar` is "Create: Oh The Biomes We've Gone Compat" by Blizzor, MIT licensed,
 bundled here because its CurseForge project blocks third-party downloads.
+
+The CurseForge zip bundles `overrides/mods/wthit-1.21.1-neo-12.10.2.jar`: [WTHIT](https://github.com/badasintended/wthit)
+by badasintended, CC BY-NC-SA 4.0, unmodified. The pack itself downloads it from Modrinth.
