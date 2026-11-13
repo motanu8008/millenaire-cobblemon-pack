@@ -1,0 +1,13 @@
+name = "Cobblemon Ride+"
+filename = "cobblemon-ride-plus-neoforge-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d39848c30f7ff4188d1ada75095e660d4eed67d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9234869
+project-id = 1712082

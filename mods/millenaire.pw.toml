@@ -1,13 +1,13 @@
 name = "Millenaire"
-filename = "millenaire-9.0.2.jar"
+filename = "millenaire-9.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2c8bf2fd9e47c2d6292ae552e41f42836a5bd879"
+hash = "1c6760871495513451fe2f1a3e27e2a49369ac3d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8913592
+file-id = 9506548
 project-id = 270871

@@ -1,13 +1,13 @@
 name = "Cobblemon: Synchro Machine [Morph&Play as a Pokémon]"
-filename = "synchro-neoforge-1.8.1.jar"
+filename = "synchromachine-neoforge-1.8.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "874cc8fdc636613174c498bfce2035217da7305c"
+hash = "ebd3145b8ef684897a82c72b4d56f0d2261f0e72"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8912738
+file-id = 9421747
 project-id = 1507228

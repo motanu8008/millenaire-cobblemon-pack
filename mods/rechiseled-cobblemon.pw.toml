@@ -1,0 +1,13 @@
+name = "Rechiseled: Cobblemon"
+filename = "rechiseledcobblemon-1.0.2-neoforge-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8dd1922804a50ebe78fa6b0a76c60596707b6bad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8303107
+project-id = 1489798
