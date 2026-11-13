@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"
-hash = "bf5a7188d0ad2c79ba58e1dc5ecac9b76074b4b725abfdb91868d41382799f86"
+hash = "21634f23df225924fd4d1d63708520622c6073bf323c1bc508f3ecf4902d2b90"
 metafile = true
 
 [[files]]
